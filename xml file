@@ -1,0 +1,26 @@
+<table>
+    <stickers>
+        <sticker1>
+            <color>red</color>
+            <quantity>20</quantity>
+        </sticker1>
+        <sticker2>
+            <color>yellow</color>
+            <quantity>51</quantity>
+        </sticker2>
+        <book>Git</book>
+        <laptop>LG</laptop>
+        <handbag>black</handbag>
+        <pens>
+            <pen1>
+                <color>black</color>
+                <quantity>1</quantity>
+            </pen1>
+            <pen2>
+                <color>blue</color>
+                <quantity>2</quantity>
+            </pen2>
+        </pens>
+
+    </stickers>
+</table>
