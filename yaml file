@@ -1,0 +1,16 @@
+table:
+  stickers:
+    - red: boolean
+      quantity: 20
+    - yellow: boolean
+      quantity: 51
+  book: Git
+  laptop: LG
+  handbag: black
+  pens:
+    - black: boolean
+      quantity: 1
+    - blue: boolean
+      quantity: 2
+
+
