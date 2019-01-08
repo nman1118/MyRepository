@@ -1,3 +1,12 @@
 *.xls
 *.pdf
 *.exe
+*.IdeaIC2018.3/
+*.README.swo
+*.VirtualBox/
+*.bash_history
+*.cisco/
+*.gitconfig
+*.gitignore
+*.packettracer
+*.viminfo
